@@ -1,4 +1,4 @@
-This is a simple typescript counter app to demonstrate the usage of React's [useReducer] hook(https://reactjs.org/docs/hooks-reference.html#usereducer)
+This is a simple typescript counter app to demonstrate the usage of React's [useReducer](https://reactjs.org/docs/hooks-reference.html#usereducer) hook.
 
 
 This demo project was built from a [Starter project boilerplate](https://github.com/Steve-Reid/create-react-app-typescript) that has been configured with [Typescript](https://www.typescriptlang.org/) [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/).
